@@ -1,0 +1,20 @@
+生成資料夾指令 mkdir
+
+進資料夾後->
+$ git clone 網址
+
+$ git pull origin master ------->(從遠端把資料拉下來)
+
+$ vi 檔案名稱 -------->(進行編輯)
+
+$ git add 檔案名稱
+
+$ git commit -m "要描述的文字"
+
+$ git push 名稱 master ---------->(資料放到遠端)
+
+$ git remote -v --------------------->查看現有的遠端網址
+
+$ git remote rm 名稱 --------------->刪除遠端網址
+
+$ git remote add 名稱 網址---------->加入遠端網址

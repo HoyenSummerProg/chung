@@ -1,0 +1,7 @@
+wang/MDK-ARM/Objects/*.*
+wang/MDK-ARM/Listings/*.*
+wang/MDK-ARM/*.htm
+wang/MDK-ARM/*.uvguix.*
+wang/MDK-ARM/*.uvoptx
+wang/STM32F051/*.*
+wang/MDK-ARM/*.uvprojx

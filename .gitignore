@@ -29,3 +29,11 @@ wang/Day4_EXTI_Example/MDK-ARM/*.uvguix.*
 wang/Day4_EXTI_Example/MDK-ARM/*.uvoptx
 wang/Day4_EXTI_Example/STM32F051/*.*
 wang/Day4_EXTI_Example/MDK-ARM/*.uvprojx
+
+wang/Day5_PWMinput/MDK-ARM/Objects/*.*
+wang/Day5_PWMinput/MDK-ARM/Listings/*.*
+wang/Day5_PWMinput/MDK-ARM/*.htm
+wang/Day5_PWMinput/MDK-ARM/*.uvguix.*
+wang/Day5_PWMinput/MDK-ARM/*.uvoptx
+wang/Day5_PWMinput/STM32F051/*.*
+wang/Day5_PWMinput/MDK-ARM/*.uvprojx
